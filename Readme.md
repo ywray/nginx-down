@@ -20,7 +20,7 @@
 
 首先clone下来
 
-`git clone https://github.com/bboysoulcn/nginx-down`
+`git clone https://github.com/ywray/nginx-down.git`
 
 之后根据需求修改你的下载速度
 
